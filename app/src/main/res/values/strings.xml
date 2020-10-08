@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">i-partner-binet-task-job</string>
+
+    <!-- Title -->
+    <string name="title_add_entry">New Entry</string>
+    <string name="title_list_entries">List Entries</string>
+    <string name="title_edited">Edited:</string>
+    <string name="title_created">Created:</string>
+
+    <string name="title_save">Save</string>
+    <string name="title_cancel">Cancel</string>
+
+    <!-- Hint -->
+    <string name="hint_input_body">Type something here</string>
+
+    <!-- Text example -->
+    <string name="big_text">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet metus condimentum, congue ante in, interdum nisl. Duis in gravida dui, interdum volutpat neque. Nulla neque neque, hendrerit id massa in, vehicula ultricies nisi. Nulla facilisi. Proin eleifend vestibulum diam, ut cursus augue mollis at. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse lobortis, mauris nec fringilla ultrices, leo nisi cursus nulla, ac vestibulum massa mauris facilisis nisl. Vestibulum augue lacus, placerat sit amet consequat scelerisque, tempor sit amet sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur imperdiet lorem et dolor condimentum lobortis. Pellentesque commodo efficitur dolor sed hendrerit. Morbi lorem nibh, egestas a lectus vitae, dignissim aliquet odio. Nulla fermentum ex ac libero consectetur elementum. Nulla facilisi. Morbi interdum sit amet augue ac feugiat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Integer sagittis scelerisque tellus, vitae facilisis nunc scelerisque eget. Morbi facilisis sapien sem, ac tempor velit eleifend vel. Aenean at massa venenatis, ultricies lorem quis, suscipit diam. Suspendisse placerat felis erat, a pretium urna eleifend nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus ullamcorper nec dolor quis ornare. Morbi eget maximus nisl, ut malesuada tortor. Etiam et odio nec orci dictum dictum. Aliquam tempor eros ac placerat sagittis. Etiam vitae tempor sem. Vestibulum sem justo, tincidunt eu metus sit amet, ullamcorper dapibus erat. Nullam condimentum accumsan massa in eleifend. Mauris posuere nisl augue, sit amet ornare lorem porttitor et. Nunc auctor sodales nisi vel vestibulum. Donec consectetur lectus nisl.
+
+Sed a convallis lacus. Nam pharetra ex venenatis, mattis eros in, hendrerit turpis. Fusce at velit metus. Donec posuere faucibus sapien, nec pulvinar nunc tempor at. Nulla a felis a enim ullamcorper tristique. Morbi iaculis dolor vitae nunc sodales mollis. Maecenas lacinia tortor quis ex blandit, at pharetra magna pellentesque.
+
+Nullam et luctus tortor, id egestas lectus. Praesent tempor, diam a pulvinar placerat, magna augue consectetur massa, vitae efficitur orci dolor at diam. Donec lacinia turpis non nulla eleifend porttitor. Etiam posuere metus vel elit tempus, non pretium odio porta. Phasellus vitae orci purus. Cras euismod est sed vehicula lacinia. Quisque ante libero, facilisis at ligula eu, tempor ultrices libero. Ut sit amet felis elementum, aliquet ligula vitae, faucibus dolor. Pellentesque placerat non libero non dictum. Mauris vel massa ut tortor pulvinar elementum ut ac risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus eu velit et quam maximus pellentesque luctus sit amet risus. Nullam nec sodales libero. Aliquam leo ligula, volutpat sed mattis in, dapibus ac mauris. Vivamus iaculis, sem non egestas venenatis, nulla nunc aliquam lectus, quis viverra ipsum nunc ac risus.
+
+Phasellus lacus ligula, tincidunt non semper id, viverra quis sem. Cras id placerat risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc vitae dui eget metus viverra congue ac eu eros. Morbi lacus eros, maximus a iaculis eget, auctor sit amet metus. Etiam eleifend nunc efficitur, sagittis elit varius, accumsan neque. Aliquam malesuada id urna at posuere. In placerat facilisis quam, at iaculis metus vestibulum ut. Quisque suscipit mollis leo, ac pellentesque ante consectetur nec. Morbi vehicula elit a dignissim cursus. Fusce interdum est diam, quis sagittis urna ultricies eleifend. Sed a nisi eu erat tristique tempus id ut nisi. Sed at tortor leo. Ut et felis augue. Nulla ac nunc dictum, malesuada leo sed, mollis sapien. </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
